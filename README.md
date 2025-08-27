@@ -39,4 +39,4 @@ The project showcases how Power Apps (Canvas & Model-Driven), Power Automate, an
 
 ## 👩‍💻 Author
 **Rumeysa Songür**  
-📌 Power Platform Developer | Data Enthusiast
+📌 Power Platform Developer | Power Platform Specialist | Power Apps  | Power Automate | Power BI
