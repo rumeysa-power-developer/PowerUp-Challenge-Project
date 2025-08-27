@@ -1,5 +1,3 @@
-# PowerUp-Challenge-Project
-
 # Power Up Challenge - Final Project
 
 This repository contains my final project for the **Microsoft Power Up Challenge**.  
